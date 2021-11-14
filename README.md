@@ -6,7 +6,7 @@ A Search App made using React JS and Google Search API
 
 ## 🔗 Links
 [![start](https://user-images.githubusercontent.com/59278476/134729145-9a593bbf-5bdf-47be-a497-c3d5694a72c9.png)
-](https://search-app-using-react.netlify.app/search)
+](https://search-app-using-react.netlify.app/)
 
   
 ## Screenshots
